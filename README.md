@@ -18,6 +18,29 @@ Saved cleaned dataset
 ## Files
 - analysis.ipynb
 - cleaned_data.csv
+- ## Part 2 Results
+
+### Regression
+Linear Regression MSE: (paste your result)
+Linear Regression R2: (paste your result)
+
+Ridge Regression MSE: (paste your result)
+Ridge Regression R2: (paste your result)
+
+### Classification
+Accuracy: (paste)
+Precision: (paste)
+Recall: (paste)
+F1 Score: (paste)
+AUC Score: (paste)
+
+### Threshold Analysis
+Best threshold: (paste)
+
+### Bootstrap AUC
+Mean Difference: (paste)
+2.5 Percentile: (paste)
+97.5 Percentile: (paste)
 
 ## Conclusion
 Dataset cleaned and analyzed successfully.
